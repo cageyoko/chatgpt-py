@@ -7,5 +7,6 @@
 效果如图所示:
 ![image](fig.png)
 
+目的: 方便测试GPT在不同数据集在NLP or Spoken Text任务上的性能。
 
 简化后的python脚本, 代码来自: https://github.com/zhayujie/chatgpt-on-wechat
